@@ -15,15 +15,15 @@ The AnkithMenon_Beer_dataset_EDA will generate npy files that will be stored in 
 
 ## Installed packages
 For this analysis, these are the packages used and their version information:
-python                    3.8.5
-scikit-learn              0.23.2
-scipy                     1.5.2
-seaborn                   0.11.0
-xgboost                   1.5.0
-matplotlib                3.3.3
-mlxtend                   0.19.0
-numpy                     1.19.2
-pandas                    1.1.3
+- python                    3.8.5
+- scikit-learn              0.23.2
+- scipy                     1.5.2
+- seaborn                   0.11.0
+- xgboost                   1.5.0
+- matplotlib                3.3.3
+- mlxtend                   0.19.0
+- numpy                     1.19.2
+- pandas                    1.1.3
 
 
 ## Presentation
